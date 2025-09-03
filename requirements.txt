@@ -4,5 +4,6 @@ matplotlib
 seaborn
 plotly
 pandas
-scikit-learn
+scikit-learn == 1.7.1
 joblib
+imbalanced-learn
